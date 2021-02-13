@@ -1,6 +1,7 @@
 # TorreDeHanoi
 
-Trabalho desenvolvido na materia de Estrutura de dados 1, torre de hanoi é um jogo de quebra cabeça onde existe uma base e tres pinos onde os discos são dispostos, a ideia é que você consiga passar uma torre de discos de um pino para o outro sem que um disco menor fique em baixo de um maior.
+Trabalho desenvolvido na matéria de Estrutura de dados 1, torre de hanói é um jogo de quebra cabeça onde existe uma base e três pinos onde os discos são dispostos, a ideia é que você consiga passar uma torre de discos de um pino para o outro sem que um disco menor fique embaixo de um maior.
+
 
 ## Implementação
 
