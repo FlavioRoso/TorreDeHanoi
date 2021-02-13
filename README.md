@@ -8,7 +8,7 @@ Esse trabalho foi feito em c++ utiliando pilhas para a manimulação dos discos,
 
 ## Participantes
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 
  - [Flavio Roso](https://github.com/FlavioRoso)
  - [Paulo Henrique](https://github.com/barretowski)
