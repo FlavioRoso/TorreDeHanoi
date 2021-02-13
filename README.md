@@ -5,7 +5,8 @@ Trabalho desenvolvido na matéria de Estrutura de dados 1, torre de hanói é um
 
 ## Implementação
 
-Esse trabalho foi feito em c++ utiliando pilhas para a manimulação dos discos, e a lib conio2 para a parte visual
+Esse trabalho foi feito em c++ utilizando pilhas para a manipulação dos discos, e a lib conio2 para a parte visual
+
 
 ## Participantes
 
